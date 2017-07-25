@@ -1,0 +1,140 @@
+
+
+
+
+
+body {
+  background-color: #82929C;
+  background-position: 0px 0px 10px 10px;
+  font-family: helvetica, sans-serif, arial;
+  line-height: 1.6;
+  }
+    body > div {
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    width: 600px;
+
+
+  }
+
+h2 {
+    color: #24ABE5;
+  }
+
+  h3 {
+    color: #24ABE5;
+  }
+
+  header {
+    background-color: #ff8523;
+    height: 100px;
+    padding: 20px;
+  }
+
+
+  .main_navigation  a {
+    color: white;
+    font-weight: bold;
+    border color: lighter;
+    text-decoration: none;
+    border-style: solid;
+    padding: 15px;
+    border-radius: 5px;
+    border-width: thin;
+
+
+
+
+
+
+
+  }
+
+
+    .name {
+      background-color: #ff8523;
+      color: white;
+      font-weight: bold;
+      height: 40PX;
+      padding-top: 20PX;
+      border-radius: 2%;
+      padding-left: 20px;
+      padding-right: 20px;
+      margin-left: 20px;
+      margin-right: 20px;
+      margin-top: 20px;
+
+     }
+table  {
+  border-collapse: collapse;
+  word-wrap: normal;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+thead tr td {
+  background-color: #24ABE5;
+  color: white;
+  border-style: solid;
+  border-color: #046c97;
+  border-width: thin;
+  padding-left: 10px;
+
+}
+tbody tr td {
+  border-style: solid;
+  border-color: #1fabe5;
+  border-width: thin;
+  width: 100px;
+  padding-left: 10px;
+  height: 5px;
+}
+tr img {
+  padding: 10px;
+  height: 100px;
+}
+
+img {
+  margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+form {
+  background-color: #eee;
+  background-size: 30%;
+
+
+
+
+     }
+textarea {
+  margin-left: 20px;
+  width: 550px;
+}
+
+
+
+
+
+  /*
+font info:
+    family - Helvetica, Arial, sans-serif
+    line-height - 1.6
+
+
+colors:
+    light gray - ##eee
+    gray - #dddddd
+    yellow - #ffd24a
+    orange - #ff8523
+    blue - #1fabe5
+    dark blue - #046c97
+*/
